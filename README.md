@@ -10,8 +10,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 ### Data Types and Variables
 String songTitle = 'We Are The World';
 
----
-
 Sample https://www.apexsandbox.io/ problem.
 
 ### Problem:
