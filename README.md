@@ -4,14 +4,14 @@ Salesforce Apex
 ## Data Types and Variables
 String songTitle = 'We Are The World';
 
-## Sample https://www.apexsandbox.io/ problem.
+Sample https://www.apexsandbox.io/ problem.
 
-*Problem:*
+### Problem:
 Given a person's age, return true if the person is a teenager (age 13 - 19).
 isTeenager(5) = false
 isTeenager(15) = true
 
-*Answer:*
+###Answer:
 ```apex
 public Boolean isTeenager(Integer age) {
     //code here
