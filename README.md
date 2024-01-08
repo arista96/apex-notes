@@ -10,8 +10,8 @@ Sample https://www.apexsandbox.io/ problem.
 
 ### Problem:
 Given a person's age, return true if the person is a teenager (age 13 - 19).
-isTeenager(5) = false
-isTeenager(15) = true
+// isTeenager(5) = false
+// isTeenager(15) = true
 
 ### Answer:
 ```apex
